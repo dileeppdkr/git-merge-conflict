@@ -1,5 +1,5 @@
 class GitMerge
     def merge
-        puts 'merge is complete'
+        puts 'verfying merging conflits'
     end
 end
