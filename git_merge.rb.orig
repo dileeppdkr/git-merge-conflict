@@ -1,0 +1,9 @@
+class GitMerge
+    def merge
+<<<<<<< HEAD
+      puts 'verfying merging conflits'
+=======
+        puts 'verfying merging conflits'
+>>>>>>> branch2
+    end
+end
