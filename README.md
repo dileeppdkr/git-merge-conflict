@@ -9,7 +9,7 @@ Hooli Co. has put Harry and Kane to implement a new set of features in their fea
 * Install a merge tool of your choice and resolve the merge conflict using git mergetool command
 
 
-# solution
+# Solution
 * Created main branch and pushed local code to main branch
 * Created a file (git_merge.rb) and push to main branch
 * Created branch1 and modified the git_merge.rb and pushed changes to branch1
