@@ -41,7 +41,7 @@ Hooli Co. has put Harry and Kane to implement a new set of features in their fea
     Automatic merge failed; fix conflicts and then commit the result.
  ```
  * Conflicts arise 
- * Using mergtool resolved conflicts 
+ * resolve conflicts using merge tool example: p4merge, diffmerge, kdiff3
  ```
     git mergetool
     # Resolve conflits 
